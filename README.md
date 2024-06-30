@@ -1,7 +1,5 @@
 # PRODIGY_FS_04
 
-🔗Live Website Link : http://127.0.0.1:5500/index.html
-
 💬 ChatterBox - Real-Time Chat Application
 Welcome to ChatterBox! This project is a real-time chat application that allows users to communicate instantly with each other. Whether you're chatting with friends or collaborating with teammates, ChatterBox makes real-time communication seamless and enjoyable.
 
